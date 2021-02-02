@@ -3,7 +3,9 @@
 
 ***Maintained by Sungtae An <stan84@gatech.edu>***
 
-In this series of tutorials, we will learn how to implement a varity of Neural Networks by using PyTorch with the example problems of healthcare domain.
+In this series of tutorials, we will learn how to implement a varity of Neural Networks by using PyTorch with the example problems of biosystems and healthcare domain.
+
+You may install [PyTorch](https://pytorch.org/get-started/locally/) locally to run Jupyter Notebooks at your side.
 
 We will briefly cover the following topics:
 
